@@ -1,0 +1,6 @@
+[user]
+	name = itsrarias
+	email = itsrarias@gmail.com
+[remote "origin"]
+	url = https://github.com/itsrarias/github_practice.git
+	fetch = +refs/heads/*:refs/remotes/origin/*
